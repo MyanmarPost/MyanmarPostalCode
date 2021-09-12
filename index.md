@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Myanmar Postal Code
+All Region & State Location Data With Postal Code 
+**(7 Digit For Quarter &amp; Villages Tract)**
+- Release V-1.0 (Sep 2021)
 
-You can use the [editor on GitHub](https://github.com/MyanmarPost/MyanmarPostalCode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar_Postal-Code-Explained.png?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About Postal Code
 
-### Markdown
+The postal code is a combination of **Seven Numbers**, which define four different levels of geographic unit. It is part of a coding system created and used by the Myanmar Post for sorting mail. The postal codes are an abbreviated form of address, which enable a group of delivery points (a delivery point being a property or business locations) to be specifically identified.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Postal Code Search
 
-```markdown
-Syntax highlighted code block
+Full valid postal codes can be located at the **Myanmar Post** Postal code Finder website [ww.myanmarpost.com.mm](https://myanmarpost.com.mm/) or Mobile Applications.
 
-# Header 1
-## Header 2
-### Header 3
+# Postal Code Defination
+- Each postal code consists of three parts. The first part is the state or region code. 
+- The second postal code enables mail to be sent to the correct local area for delivery.
+This part of the code contains the town and township district to which the mail is to be
+delivered.
+- The final postal code is used to sort the mail at the local area delivery office. It
+consists of three numeric character followed by town and township area. The numeric
+character identifies the sector within the postal district. The last three number define quarter or village tract within the sector.
 
-- Bulleted
-- List
+# Valid Formats
 
-1. Numbered
-2. List
+The following is a list of the valid formats of postal code. 
+> ***For example:***
 
-**Bold** and _Italic_ and `Code` text
+| Region / State  |         Town/ Township       |   Quarter/ Village Tract    |
+|-----------------|------------------------------|-----------------------------|
+|     08          |             68               |          `'002'`            |
+| Bago Region     | Kaytumadi Town               | `'Ta Pin Shwe Htee Quarter'`|
 
-[Link](url) and ![Image](src)
-```
+# Data Format
+All data format are only support unicode standard (ISO-10646).
+> Only Support **Unicode**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Download
+ - [V-1.0 Complete Data](https://github.com/MyanmarPost/MyanmarPostalCode/tree/main/Myanmar%20Postal%20Code%20V-1.0/) 
+ - [Myanmar](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.zip)
+ - [English](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/English.zip)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MyanmarPost/MyanmarPostalCode/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Technology Service Provider
+Produly Support by <img src="https://epost.sgp1.digitaloceanspaces.com/ds_assets/zalogo.png" width="30px;"> [Za Information Technology Co.,Ltd.](https://za.com.mm/) 
