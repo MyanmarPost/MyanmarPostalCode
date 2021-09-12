@@ -10,7 +10,7 @@ The postal code is a combination of **Seven Numbers**, which define four differe
 
 # Postal Code Search
 
-Full valid postal codes can be located at the **Myanmar Post** Postal code Finder website,  [ww.myanmarpost.com.mm](https://myanmarpost.com.mm/) or Mobile Applications.
+Full valid postal codes can be located at the **Myanmar Post** Postal code Finder website [ww.myanmarpost.com.mm](https://myanmarpost.com.mm/) or Mobile Applications.
 
 # Postal Code Defination
 - Each postal code consists of three parts. The first part is the state or region code. 
@@ -35,6 +35,10 @@ The following is a list of the valid formats of postal code.
 All data format are only support unicode standard (ISO-10646).
 > Only Support **Unicode**
 
+# Download
+ - [V-1.0 Complete Data](https://github.com/MyanmarPost/MyanmarPostalCode/tree/main/Myanmar%20Postal%20Code%20V-1.0/) 
+ - [Myanmar](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.zip)
+ - [English](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/English.zip)
 
 # Technology Service Provider
 Produly Support by <img src="https://epost.sgp1.digitaloceanspaces.com/ds_assets/zalogo.png" width="30px;"> [Za Information Technology Co.,Ltd.](https://za.com.mm/) 
