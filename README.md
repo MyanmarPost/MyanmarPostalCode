@@ -19,8 +19,7 @@ Full valid postal codes can be located at the **Myanmar Post** Postal code Finde
 This part of the code contains the town and township district to which the mail is to be
 delivered.
 - The final part is used to sort the mail at the local area delivery office. It
-consists of three numeric character followed by town and township area. The numeric
-character identifies the sector within the postal district. The last three number define quarter or village tract within the sector.
+consists of three numeric character followed by town and township area. The last three number define quarter or village tract within the sector.
 
 # Valid Formats
 
