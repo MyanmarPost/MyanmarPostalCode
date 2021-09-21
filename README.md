@@ -36,9 +36,9 @@ All data format only support unicode standard (ISO-10646).
 > Only Support **Unicode**
 
 # Download
- - [V-1.0 Complete Data](https://github.com/MyanmarPost/MyanmarPostalCode/tree/main/Myanmar%20Postal%20Code%20V-1.0/) 
- - [Myanmar](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/%E1%80%99%E1%80%BC%E1%80%94%E1%80%BA%E1%80%99%E1%80%AC.zip)
- - [English](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar%20Postal%20Code%20V-1.0/English.zip)
+ - [V-1.0 Complete Data](https://bit.ly/2W0s9y4) 
+ - [Myanmar](https://bit.ly/3tVJk0j)
+ - [English](https://bit.ly/3lMpRez)
 
 # Technology Service Provider
 Prouduly Supported by <img src="https://epost.sgp1.digitaloceanspaces.com/ds_assets/zalogo.png" width="30px;"> [Za Information Technology Co.,Ltd.](https://za.com.mm/) 
