@@ -42,7 +42,7 @@ All data format only support unicode standard (ISO-10646).
 
 # License
 
-This package is published under `GPL 3.0` license and copyright to [© Myanmar Post](https://myanmarpost.com.mm). Original 'Postal Codes' were created by Myanmar Post. 
+This open data is published under `GPL 3.0` license and copyright to [© Myanmar Post](https://myanmarpost.com.mm). Original 'Postal Codes' were created by Myanmar Post. 
 
 ## Technology Service Provider
 Prouduly Supported by <img src="https://epost.sgp1.digitaloceanspaces.com/ds_assets/zalogo.png" width="30px;"> [Za Information Technology Co.,Ltd.](https://za.com.mm/) 
