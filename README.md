@@ -11,7 +11,7 @@ The postal code is a combination of **Seven Numbers**, which define three differ
 
 # Postal Code Search
 
-Full valid postal codes can be located at the **Myanmar Post** Postal code Finder website [www.myanmarpost.com.mm](https://myanmarpost.com.mm/) or Mobile Applications.
+Full valid postal codes can be located at the **Myanmar Post** Postal code Finder website [www.myanmarpost.com.mm](https://myanmarpost.com.mm/postcode/) or Mobile Applications.
 
 ## Enduser Application
 [![image alt text](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/icon/google%20play%20store%20icon.png)](https://play.google.com/store/apps/details?id=zatech.com.myanmarpost/)
