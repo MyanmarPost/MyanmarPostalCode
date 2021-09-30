@@ -1,6 +1,6 @@
 # Myanmar Postal Code
 All Region & State Location Data With Postal Code 
-**(7 Digit For Quarter &amp; Villages Tract)**
+**(7 Digit For Quarter &amp; Village Tract)**
 - Release V-1.0 (Sep 2021)
 
 ![alt text](https://github.com/MyanmarPost/MyanmarPostalCode/blob/main/Myanmar_Postal-Code-Explained.png?raw=true)
